@@ -157,11 +157,11 @@ func testFetchExchangesAndIconsSuccess() {
 
 ---
 
-## 👨‍💻 **Author**
+## 🧑‍💻 **Developers**
 
-- **Fabricio Aguiar de Padua**  
-- **LinkedIn:** www.linkedin.com/fabricio-padua
-- **Email:** fabricio_0505_@hotmail.com
+- **Lead Developer:** Fabricio Aguiar de Padua
+- **LinkedIn:** www.linkedin.com/fabricio-padua  
+- **contact:** fabricio_0505_@hotmail.com
 
 ---
 
